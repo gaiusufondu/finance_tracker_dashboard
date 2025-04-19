@@ -1,6 +1,7 @@
 # 📊 Gaius Personal Finance Dashboard – Excel Analytics Project
 
 ## 📷 Dashboard Preview
+![Finance Dashboard](Dashboard.png)
 
 Welcome to my **Personal Finance Dashboard Project**, an Excel-based data analysis and visualization built to track, analyze, and interpret personal financial activities over time. This project reflects my growing capabilities as a data analyst—combining technical skills with real-world financial insights.
 
